@@ -1,4 +1,4 @@
-<img src="./gmlp.png" width="400px"></img>
+<img src="./gmlp.png" width="800px"></img>
 
 ## gMLP - Pytorch
 
